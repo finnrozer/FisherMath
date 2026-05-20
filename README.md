@@ -1,5 +1,4 @@
 ```python
-import os
 
 readme_content = """# 𝝨 MathForge (𝝮)
 
