@@ -72,7 +72,7 @@ MathForge is engineered to be lightweight, modular, and blisteringly fast.
 
 ```
 ┌────────────────────────────────────────────────────────┐
-│                   MathForge Editor                     │
+│                   FisherMath Editor                     │
 │  [ Command Parser ]  ──>  [ Live Tokenizer/Renderer ]   │
 └───────────────────────────┬────────────────────────────┘
                             │ (Local Automated Autosave)
