@@ -1,5 +1,4 @@
 
-readme_content = """# 𝝨 MathForge (𝝮)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-1.0.0--beta-blueviolet.svg)]()
